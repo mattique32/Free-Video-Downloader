@@ -2,7 +2,7 @@
 
 ## Major technologies
 
-- Language: Java + Kotlin
+- Language: Kotlin + Java
 
 ## Features
 
