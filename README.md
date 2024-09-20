@@ -62,14 +62,7 @@ Android 5.0 and up
 * How this app works on your device
 This section shows you whether this app works on your devices. You’ll only see devices that are linked to your Google Account and that have been active in the last 30 days.
 
-Thanks
-to [@cuongpm](https://github.com/cuongpm), [@yausername](https://github.com/yausername), [@farimarwat](https://github.com/farimarwat)
-
-Inspired from [cuongpm/youtube-dl-android](https://github.com/cuongpm/youtube-dl-android)
-
-BTC wallet: [bc1q97xgwurjf2p5at9kzm96fkxymf3rh6gfmfq8fj](bitcoin:BC1Q97XGWURJF2P5AT9KZM96FKXYMF3RH6GFMFQ8FJ)
-
 ## Screenshots
 
 <img src="screenshots/Screenshot 1.png" width="170"> <img src="screenshots/Screenshot 2.png" width="170"> 
-This package is licensed under the [LICENSE](./LICENSE) for details.
+
