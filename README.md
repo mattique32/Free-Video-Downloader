@@ -1,28 +1,66 @@
-# Android Video Downloader app with browser, player and custom downloaders
+# Free Android Video Downloader app 
 
 ## Major technologies
 
-- Language: Kotlin
-- Architecture: MVVM
-- Android architecture components: ViewModel, LiveData, Room
-- Dependency injection: Dagger2
-- Network: Retrofit, Okhttp
-- Testing: JUnit, Espresso, Mockito
-- Data layer with repository pattern and Coroutines and RxJava
+- Language: Java + Kotlin
 
 ## Features
 
-- Download videos from Youtube, Facebook, Twitter, Instagram, Dailymotion, Vimeo and more
-  than [other 1000 sites](http://rg3.github.io/youtube-dl/supportedsites.html), also inrecept all
-  streams data in browser like m3u8 or mpd links and download them, also intrecepts mp4 streaming
-  video data
-- Browse videos with the built-in browser
-- Download videos with the built-in download manager
-- Play videos offline with the built-in player
-- Save your favorite videos online and watch them later without downloading them
-- Save history as a real browser
-- Live streams download support
-- Cokies supported
+Video downloader is the best video downloader tool to download videos in 4K, HD quality. You can download all videos with one click and downloading will be super fast.
+
+FEATURES
+
+* Download free videos to watch offline
+* Download multiple videos at the same time
+* High quality videos: 4K, 2K, 1080p, 720p
+* Pause, resume download easily with our download manager
+* Watch free videos online and offline
+* View all your videos or view by folders
+* You can find and download all free videos with our app
+* All videos are verified, and available for personal usage
+
+NOTE
+Our app do not download or support YouTube videos.
+
+NOTE
+This application does not support You Tube video due to their terms and condition
+Version
+3.2
+Updated on
+Jul 26, 2024
+Requires Android
+5.0 and up
+Downloads
+1,000,000+ downloads
+Content rating
+Rated for 12+ • Parental Guidance Recommended Learn more
+Permissions
+View details
+Released on
+Jul 4, 2023
+Offered by
+Video - Video Downloader
+Compatibility for your active devices *
+Vivo V2204
+Version
+3.2
+Compatibility
+Works on your device
+Download Size
+43 MB
+Requires
+Android 5.0 and up
+Samsung SM-J710GN
+Version
+3.2
+Compatibility
+Works on your device
+Download Size
+30 MB
+Requires
+Android 5.0 and up
+* How this app works on your device
+This section shows you whether this app works on your devices. You’ll only see devices that are linked to your Google Account and that have been active in the last 30 days.
 
 Thanks
 to [@cuongpm](https://github.com/cuongpm), [@yausername](https://github.com/yausername), [@farimarwat](https://github.com/farimarwat)
@@ -33,9 +71,5 @@ BTC wallet: [bc1q97xgwurjf2p5at9kzm96fkxymf3rh6gfmfq8fj](bitcoin:BC1Q97XGWURJF2P
 
 ## Screenshots
 
-<img src="screenshots/screenshot_1.png" width="170"> <img src="screenshots/screenshot_2.png" width="170"> <img src="screenshots/screenshot_3.png" width="170"> <img src="screenshots/screenshot_4.png" width="170">
-<img src="screenshots/screenshot_5.png" width="170"> <img src="screenshots/screenshot_6.png" width="170"> <img src="screenshots/screenshot_7.png" width="170"> <img src="screenshots/screenshot_8.png" width="520">
-
-## License
-
+<img src="screenshots/Screenshot 1.png" width="170"> <img src="screenshots/Screenshot 2.png" width="170"> 
 This package is licensed under the [LICENSE](./LICENSE) for details.
